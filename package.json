@@ -1,5 +1,5 @@
 {
-  "name": "fmm-atlas",
+  "name": "fmm-image-resize",
   "description": "Grunt plugin to manage FMM image resizing",
   "version": "0.1.0",
   "author": {
